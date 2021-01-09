@@ -1,6 +1,4 @@
-# Lecture 1: Introduction and Examples
-
->第一讲：介绍和样例
+# Lecture 1: O/S Overview
 
 ## Materials
 
